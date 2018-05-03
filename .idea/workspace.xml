@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f1cb13-0bf8-48d2-b060-ab516b5ccebc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/udemy-flask-and-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/udemy-flask-and-python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section4/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section4/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section4/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section4/security.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section4/student-app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section4/student-app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section4/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section4/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/code/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/code/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/code/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/code/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/code/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/code/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/code/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/code/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/code/item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/code/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/code/security.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/code/userd.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/code/userd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section5/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section5/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/resources/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/models/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/models/item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/models/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/resources/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/resources/item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/resources/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/resources/register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section6/code/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/section6/code/security.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ufap/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/ufap/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ufap/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/ufap/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,65 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="item.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/section6/code/resources/item.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/section6/code/db.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/section6/code/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="89" column="8" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="90" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="item.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons/section6/code/models/item.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="87">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -168,6 +89,23 @@
               <item name="udemy-flask-and-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy-flask-and-python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="udemy-flask-and-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-flask-and-python" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy-flask-and-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-flask-and-python" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy-flask-and-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy-flask-and-python" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +119,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\udemy-flask-and-python\code" />
       <recent name="D:\dev\udemy-flask-and-python\section6\code\models" />
       <recent name="D:\dev\udemy-flask-and-python\section6" />
       <recent name="D:\dev\udemy-flask-and-python" />
@@ -231,7 +170,7 @@
     <frame x="-2" y="0" width="1122" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18291551" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38997215" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32945284" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -254,26 +193,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lessons/section6/code/resources/item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/section6/code/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lessons/section6/code/models/item.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -545,30 +464,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/section6/code/models/item.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/section6/code/resources/item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons/section6/code/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -582,17 +481,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/lessons/section6/code/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/section6/code/resources/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons/section6/code/models/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/models/user.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/models/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/data.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="89" column="8" lean-forward="true" selection-start-line="89" selection-start-column="8" selection-end-line="90" selection-end-column="9" />
+        <state relative-caret-position="87">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
