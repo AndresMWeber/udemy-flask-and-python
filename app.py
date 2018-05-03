@@ -10,7 +10,7 @@ if __name__ == '__main__':
     app = Flask(__name__)
     app.config['SECRET_KEY'] = 'andres'
     api = Api(app=app)
-    db(app)
+    db.init_app(app)
 
     jwt = JWT(app, authenticate, identity)  # /auth
 
