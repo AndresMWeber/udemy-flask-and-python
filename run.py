@@ -1,5 +1,7 @@
-from .app import app
-from .db import db
+import sys
+print([p for p in sys.path])
+from app import app
+from db import db
 
 db.init_app(app)
 
