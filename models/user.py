@@ -1,34 +1,19 @@
-from db import DBContext
+from models.common import CommonMixin
+from db import db
 
 
-class UserModel(object):
-    def __init__(self, _id, username, password):
-        self.id = _id
+class UserModel(CommonMixin, db.Model):
+    __tablename__ = 'users'
+
+    serial_attrs = ['username', 'password']
+
+    username = db.Column(db.String(80))
+    password = db.Column(db.String(80))
+
+    def __init__(self, username, password):
         self.username = username
         self.password = password
 
     @classmethod
     def find_by_username(cls, username):
-        with DBContext() as c:
-            query = "SELECT * FROM users WHERE username=?"
-            result = c.execute(query, (username,))
-            row = result.fetchone()
-
-            if row and len(row) == 3:
-                user = cls(*row)
-            else:
-                user = None
-        return user
-
-    @classmethod
-    def find_by_id(cls, _id):
-        with DBContext() as c:
-            query = "SELECT * FROM users WHERE id=?"
-            result = c.execute(query, (_id,))
-            row = result.fetchone()
-
-            if row and len(row) == 3:
-                user = cls(*row)
-            else:
-                user = None
-        return user
+        return cls.query.filter_by(username=username).first()

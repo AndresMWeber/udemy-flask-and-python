@@ -12,9 +12,7 @@ class UserRegister(Resource):
         data = self.user_parser.parse_args()
         if UserModel.find_by_username(data['username']):
             return {"message": "User {} already exists in the database".format(data['username'])}
-        
-        with DBContext() as c:
-            query = "INSERT INTO users VALUES (NULL, ?, ?)"
-            c.execute(query, (data['username'], data['password']))
+
+        UserModel(**data).save_to_db()
 
         return {"message": "User {} created successfully.".format(data['username'])}, 201
