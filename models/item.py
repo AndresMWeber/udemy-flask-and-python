@@ -1,4 +1,4 @@
-from models.common import CommonMixin
+from .common import CommonMixin
 from db import db
 
 
