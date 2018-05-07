@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/lessons/section4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lessons/section5" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/lessons" />
       <excludeFolder url="file://$MODULE_DIR$/lessons/section4" />
       <excludeFolder url="file://$MODULE_DIR$/lessons/section5" />
