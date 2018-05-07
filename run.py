@@ -2,12 +2,10 @@ from flask import Flask
 from flask_restful import Api
 from flask_jwt import JWT
 
-import resources
-import models
-from security import authenticate, identity
 from resources.register import UserRegister
 from resources.item import Item, ItemList
 from resources.store import Store, StoreList
+from security import authenticate, identity
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'

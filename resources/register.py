@@ -1,4 +1,3 @@
-from db import DBContext
 from flask_restful import Resource, reqparse
 from models.user import UserModel
 
