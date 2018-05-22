@@ -2,7 +2,6 @@ from db import db
 
 
 class CommonMixin(object):
-
     serial_attrs = []
     id = db.Column(db.Integer, primary_key=True)
 
@@ -24,3 +23,7 @@ class CommonMixin(object):
     def delete_from_db(self):
         db.session.delete(self)
         db.session.commit()
+
+    @classmethod
+    def find_all(cls):
+        return cls.query.all()

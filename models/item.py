@@ -5,7 +5,7 @@ from db import db
 class ItemModel(CommonMixin, db.Model):
     __tablename__ = 'items'
 
-    serial_attrs = ['name', 'price']
+    serial_attrs = ['id', 'name', 'price', 'store_id']
 
     name = db.Column(db.String(80))
     price = db.Column(db.Float(precision=2))
